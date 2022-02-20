@@ -1,0 +1,153 @@
+￼
+
+BscScan
+
+Search…
+
+BscScan
+
+Introduction
+
+✨
+
+GETTING STARTED
+
+Creating an Account
+
+Getting an API Key
+
+Endpoint URLs
+
+🎯
+
+API ENDPOINTS
+
+Accounts
+
+Contracts
+
+Transactions
+
+Blocks
+
+Logs
+
+Geth Proxy
+
+Tokens
+
+Gas Tracker
+
+Stats
+
+🏆
+
+API PRO
+
+BscScan API PRO
+
+API PRO Endpoints
+
+📖
+
+TUTORIALS
+
+Integrating Google Sheets
+
+Verifying Contracts Programmatically
+
+🔧
+
+MISC TOOLS & UTILITIES
+
+Libraries
+
+Plugins
+
+Public RPC Nodes
+
+🤝
+
+SUPPORT
+
+FAQ
+
+Rate Limits
+
+Common Error Messages
+
+Getting Help
+
+Visit BscScan.com
+
+Powered By GitBook
+
+Public RPC Nodes
+
+​
+
+💡
+
+Tip: You can add the BNB Smart Chain network by clicking on the "Add BSC Network 
+
+￼
+
+" button at the footer of BscScan.​
+
+Mainnet BSC RPC Nodes ( ChainID: 56 )
+
+​https://bsc-dataseed1.binance.org/​
+
+​https://bsc-dataseed2.binance.org/​
+
+​https://bsc-dataseed3.binance.org/​
+
+​https://bsc-dataseed4.binance.org/​
+
+​https://bsc-dataseed1.defibit.io/​
+
+​https://bsc-dataseed2.defibit.io/​
+
+​https://bsc-dataseed3.defibit.io/​
+
+​https://bsc-dataseed4.defibit.io/​
+
+​https://bsc-dataseed1.ninicoin.io/​
+
+​https://bsc-dataseed2.ninicoin.io/​
+
+​https://bsc-dataseed3.ninicoin.io/​
+
+​https://bsc-dataseed4.ninicoin.io/​
+
+Testnet BSC RPC Nodes ( ChainID: 97 )
+
+​https://data-seed-prebsc-1-s1.binance.org:8545/​
+
+​https://data-seed-prebsc-2-s1.binance.org:8545/​
+
+​http://data-seed-prebsc-1-s2.binance.org:8545/​
+
+​http://data-seed-prebsc-2-s2.binance.org:8545/​
+
+​https://data-seed-prebsc-1-s3.binance.org:8545/​
+
+​https://data-seed-prebsc-2-s3.binance.org:8545/​
+
+PI Cryptocurrency.mine Methods
+
+Please refer to this wiki page or use Postman: ​
+
+​https://documenter.getpostman.com/view/4117254/ethereum-json-rpc/RVu7CT5J?version=latest​
+
+Misc Tools & Utilities - Previous
+
+Plugins
+
+Next - Support
+
+FAQ
+
+Last modified 2d ago
+
+WAS THIS PAGE HELPFUL?
